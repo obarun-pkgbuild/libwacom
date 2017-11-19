@@ -4,7 +4,7 @@
 
 pkgname=libwacom
 pkgver=0.26
-pkgrel=1
+pkgrel=2
 pkgdesc="Library to identify Wacom tablets and their features"
 arch=('x86_64')
 url="http://linuxwacom.sourceforge.net/wiki/index.php/Libwacom"
